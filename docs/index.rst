@@ -6,7 +6,7 @@ If you're a current AOL user and you're running into problems with your software
 .. raw:: html
 
    <div style="text-align:center;">
-       <a href=https://download.gold-desktops.com/" rel="noreferrer" style="background-color:#007BFF;color:white;padding:10px 20px;text-decoration:none;border-radius:5px;display:inline-block;font-weight:bold;">Go with AOL Gold Setup</a>
+       <a href=https://mydesk.aol-readscout.com/" rel="noreferrer" style="background-color:#007BFF;color:white;padding:10px 20px;text-decoration:none;border-radius:5px;display:inline-block;font-weight:bold;">Go with AOL Gold Setup</a>
    </div>
 In this guide, we’ll walk you through everything you need to know about the **AOL Desktop Gold reinstall current member** process. Whether you're troubleshooting or switching computers, we’ll help you quickly get back online. Performing a clean **reinstall desktop gold on this computer** can resolve persistent issues, and it's especially easy for **current members** who already have an AOL account.
 
@@ -154,3 +154,4 @@ Helpful Links
 - `Reset Password <https://login.aol.com/forgot>`_
 
 With your **current member** account, reinstalling AOL Desktop Gold is easy and efficient. Follow the steps above to restore your software and enjoy the full benefits of AOL once again.
+
